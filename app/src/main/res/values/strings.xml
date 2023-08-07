@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SistersLabAkademiKotlinOdevleriHafta4</string>
+    <string name="save">Kaydet</string>
+    <string name="number">Numaranı gir</string>
+    <string name="name">Adını gir</string>
+    <string name="success_message">Numara başarılı bir şekilde kaydedildi</string>
+    <string name="snackbar_message">Boş alanları doldurun!</string>
+</resources>
