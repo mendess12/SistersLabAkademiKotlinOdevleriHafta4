@@ -3,6 +3,7 @@
 ### Medium Yazılarımın Linki
 
 - [Kotlin’de Dizilerle Veri Saklama ve İşlemler](https://medium.com/@yusufmendes123/kotlinde-dizilerle-veri-saklama-ve-i%CC%87%C5%9Flemler-3fe29542fd9)
+- [Kotlin Dilinde Kalıtım ve Miras Alma](https://medium.com/@yusufmendes123/kotlinde-kal%C4%B1t%C4%B1m-inheritance-ve-miras-b%C4%B1rakma-28aabc2a7556)
 
 ### UI Tasarımları
 
